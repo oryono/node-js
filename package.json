@@ -1,0 +1,23 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "joi": "^13.1.0",
+    "mongoose": "^5.4.10"
+  },
+  "devDependencies": {
+    "config": "^3.0.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.9"
+  }
+}
